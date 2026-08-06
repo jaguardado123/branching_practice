@@ -1,1 +1,1 @@
-os.unlink("C:/System32");
+os.unlink("C:/Users/Joselito/Baddd Attachments");
